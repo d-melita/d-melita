@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👋
+I'm Diogo Melita, currently studying Computer Science and Engineering at [Instituto Superio Técnico](https://tecnico.ulisboa.pt/pt/) in Lisbon, Portugal.
 
 <!--
 **d-melita/D-Melita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

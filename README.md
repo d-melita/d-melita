@@ -4,9 +4,6 @@ I'm Diogo Melita 😄
 📌 Lisbon, Portugal
 🎓 Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/apid-melita)](https://github.com/anuraghazra/github-readme-stats)]
-
-
 
 <!--
 **d-melita/D-Melita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

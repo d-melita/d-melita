@@ -7,7 +7,7 @@ I'm Diogo Melita 😄
 
 ![Diogo Melita's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-melita&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-melita&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-melita&layout=compact&theme=react)
 
 
 <!--

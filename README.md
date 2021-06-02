@@ -5,9 +5,9 @@ I'm Diogo Melita 😄
 
 🎓 Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
-![Diogo Melita's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-melita&show_icons=true&theme=react)
+![Diogo Melita's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Melita&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-melita&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Melita&layout=compact&theme=react)
 
 
 <!--

@@ -4,7 +4,7 @@ I'm Diogo Melita 😄
 📌 Lisbon, Portugal
 🎓 Studying Computer Science and Engineering at [Instituto Superio Técnico](https://tecnico.ulisboa.pt/pt/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?d-melitaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?d-melita)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

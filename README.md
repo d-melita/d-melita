@@ -6,7 +6,7 @@ I'm Diogo Melita 😄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-melita&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-melita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-melita&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

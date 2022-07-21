@@ -1,4 +1,4 @@
-### Hello 👋
+### Heyo 👋
 I'm Diogo Melita 😄
 
 📌 Lisbon, Portugal

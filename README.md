@@ -1,26 +1,46 @@
-### Heyo 👋
-I'm Diogo Melita 😄
+<div align="center">
+ 
+# Heyo 👋
+**I'm Diogo Melita**
 
 📌 Lisbon, Portugal
 
 🎓 Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+  
+## :hammer: Languages and Tools:
+  
+<br>
+  
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" alt="Arch Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
-![Diogo Melita's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Melita&show_icons=true&theme=react)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Melita&layout=compact&theme=react)
+<br>
 
+## :zap: GitHub Stats
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?username=d-melita&theme=dark" alt="d-melita"/></p>
 
-<!--
-**d-melita/D-Melita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :palm_tree: Recent GitHub Activity
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d-melita&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+## Links and Contacts:
 
-Here are some ideas to get you started:
+<br>  
+  
+Website: [melita.pt](https:://melita.pt)
+  
+E-mail: [diogo@melita.pt](mailto:diogo@melita.pt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>  
+  
+</div>

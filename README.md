@@ -27,7 +27,8 @@
 
 ## :zap: GitHub Stats
   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?username=d-melita&theme=dark" alt="d-melita"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d-melita&theme=dark" alt="d-melita"/></p>
+
 
 ## :palm_tree: Recent GitHub Activity
   

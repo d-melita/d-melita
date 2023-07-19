@@ -40,7 +40,7 @@
   
 Website: [melita.pt](https:://melita.pt)
   
-E-mail: [diogo@melita.pt](mailto:diogo@melita.pt)
+E-mail: [dgmelita9@gmail.com](mailto:dgmelita9@gmail.com)
 
 </br>  
   

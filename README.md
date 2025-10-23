@@ -3,15 +3,17 @@
 # Heyo 👋
 **I'm Diogo Melita**
 
+👨🏻‍💻 SWE @ [freiheit.com](https://freiheit.com/)
+
 📌 Lisbon, Portugal
 
-🎓 I am a Master's Student in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+🎓 I have a MSc in Computer Science and Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
 I am super interested in Distributed Systems and Cybersecurity and I am currently working on my Thesis related with Blockchain technology and transaction reversals within an EVM-based blockchain. I am looking to start my career in the Blockchain field and help to securely decentralized the world! 
 
-## ⚡ Skills
+## ⚡ Skills and Tools
   
-[![My Skills](https://skillicons.dev/icons?i=,solidity,bash,py,java,c,docker,git,github,neovim,vscode,apple,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,solidity,bash,go,react,py,java,docker,k8s,git,github,vscode,apple,linux)](https://skillicons.dev)
 
 </p>
 
